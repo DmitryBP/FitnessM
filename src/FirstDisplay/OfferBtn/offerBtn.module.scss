@@ -1,0 +1,21 @@
+.offerBtn {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  height: 50px;
+  width: 230px;
+  border-radius: 30px;
+  border: none;
+  font-size: 11px;
+  color: #554040;
+  filter: drop-shadow(0px 4px 5px rgba(199, 36, 173, 0.25));
+  background: linear-gradient(180deg, #ffffff, #ffadf2);
+  padding: 10px 35px;
+  font-weight: 400;
+  transition: transform 0.2s ease-in-out;
+  &:hover {
+    transform: translateY(-3px);
+  }
+}
