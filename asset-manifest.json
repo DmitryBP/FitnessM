@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/FitnessM/static/css/main.073c9b0a.css",
-    "main.js": "/FitnessM/static/js/main.6e2f8ba2.js",
-    "static/js/787.43acb2ae.chunk.js": "/FitnessM/static/js/787.43acb2ae.chunk.js",
-    "static/media/logo.svg": "/FitnessM/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/FitnessM/static/css/main.a3774a90.css",
+    "main.js": "/FitnessM/static/js/main.cc306828.js",
+    "static/media/telega.svg": "/FitnessM/static/media/telega.b78bb0ebcfcc14cd1dfe5c7c412ac84d.svg",
+    "static/media/instagram.svg": "/FitnessM/static/media/instagram.18983be5af3c76695e8520fab22f207c.svg",
     "index.html": "/FitnessM/index.html",
-    "main.073c9b0a.css.map": "/FitnessM/static/css/main.073c9b0a.css.map",
-    "main.6e2f8ba2.js.map": "/FitnessM/static/js/main.6e2f8ba2.js.map",
-    "787.43acb2ae.chunk.js.map": "/FitnessM/static/js/787.43acb2ae.chunk.js.map"
+    "static/media/map-pin.svg": "/FitnessM/static/media/map-pin.0b39a6dec31ed59e32c8e61b4dd849c0.svg",
+    "static/media/Burger.svg": "/FitnessM/static/media/Burger.3a7721267a470f4fffed7e8cadb71557.svg",
+    "main.a3774a90.css.map": "/FitnessM/static/css/main.a3774a90.css.map",
+    "main.cc306828.js.map": "/FitnessM/static/js/main.cc306828.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6e2f8ba2.js"
+    "static/css/main.a3774a90.css",
+    "static/js/main.cc306828.js"
   ]
 }
